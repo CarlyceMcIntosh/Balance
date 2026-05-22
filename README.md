@@ -20,7 +20,7 @@ Balance was built to explore how tone, intent, and context shape chat-based AI u
 
 ## My Contributions
 
-This was a collaborative academic project built with a partner. My main contributions included:
+This was a collaborative project built with a partner. My main contributions included:
 
 - Developed Reflect Mode logic and prompt design for journaling-style AI responses
 - Contributed to backend routing and response handling for mode-specific AI behavior
@@ -108,4 +108,3 @@ backend/
 ## Authors
 Carlyce McIntosh
 Julie Amon
-## Disclaimer
